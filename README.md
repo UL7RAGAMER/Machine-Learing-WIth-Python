@@ -4,6 +4,6 @@ A collection of Python machine learning projects with interactive web UIs built 
 
 Projects 📂
 
-    Car Price Prediction 🚗: Predicts the price of a used car based on its features using a VotingRegressor model.
+Car Price Prediction 🚗: Predicts the price of a used car based on its features using a VotingRegressor model.
 
-    Titanic Survival Prediction 🚢: Predicts passenger survival on the Titanic using a KNeighborsClassifier
+Titanic Survival Prediction 🚢: Predicts passenger survival on the Titanic using a KNeighborsClassifier
