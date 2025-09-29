@@ -1,0 +1,11 @@
+# requirements.txt
+pandas
+scikit-learn
+xgboost
+imbalanced-learn
+joblib
+gradio
+gradio-rangeslider
+numpy
+seaborn
+matplotlib
