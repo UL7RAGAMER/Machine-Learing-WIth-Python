@@ -9,4 +9,8 @@ Car Price Prediction 🚗: Predicts the price of a used car based on its feature
 Titanic Survival Prediction 🚢: Predicts passenger survival on the Titanic using a KNeighborsClassifier
 
 Install the required libraries
+
+
+pip install -r requirements.txt
+
     pip install -r requirements.txt
