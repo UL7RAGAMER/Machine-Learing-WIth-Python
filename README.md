@@ -10,7 +10,4 @@ Titanic Survival Prediction 🚢: Predicts passenger survival on the Titanic usi
 
 Install the required libraries
 
-
-pip install -r requirements.txt
-
     pip install -r requirements.txt
